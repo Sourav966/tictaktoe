@@ -1,0 +1,22 @@
+.col{
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.row{
+    display: flex;
+    background: #b9ed48;  
+
+}
+body{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  
+    
+}
